@@ -19,5 +19,7 @@ having difficulty seeing the data set change with the addition of the parameters
 ### Inspiration:
 
 [Accurat: Pritzker Architecture Prize](https://www.flickr.com/photos/accurat/10293615746/)
+
 [Accurat: Visualising painters' lives](https://www.flickr.com/photos/accurat/8961090259/)
+
 [Accurat: Detail view of painter's life](https://www.flickr.com/photos/accurat/8962285944/)
