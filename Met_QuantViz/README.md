@@ -14,3 +14,10 @@ I played around with the app Postman to help in my query, however I'm currently
 having difficulty seeing the data set change with the addition of the parameters.
 
 ![Postman Attempt](images/PostmanAttempt.png?raw=true "Postman Attempt")
+
+
+### Inspiration:
+
+[Accurat: Pritzker Architecture Prize](https://www.flickr.com/photos/accurat/10293615746/)
+[Accurat: Visualising painters' lives](https://www.flickr.com/photos/accurat/8961090259/)
+[Accurat: Detail view of painter's life](https://www.flickr.com/photos/accurat/8962285944/)
