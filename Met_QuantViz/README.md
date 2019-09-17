@@ -13,4 +13,4 @@ artistBeginDate, artistEndDate, objectDate, and isHighlight (notable).
 I played around with the app Postman to help in my query, however I'm currently
 having difficulty seeing the data set change with the addition of the parameters.
 
-![Postman Attempt](/images/PostmanAttempt.png "Postman Attempt")
+![Postman Attempt](images/PostmanAttempt.png?raw=true "Postman Attempt")
