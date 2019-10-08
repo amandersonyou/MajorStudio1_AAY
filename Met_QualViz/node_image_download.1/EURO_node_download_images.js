@@ -4,7 +4,7 @@ let fs = require('fs');
 let request = require('request');
 
 // the folder we will write into
-let folder = "EURO_downloads";
+let folder = "EURO_images";
 
 // download the image by url, name the file by filename
 function downloadImage(uri, filename, callback){
