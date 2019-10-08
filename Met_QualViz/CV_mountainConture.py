@@ -24,6 +24,7 @@ plt.show()
 
 
 # _______________________________________
+
 img = cv2.imread('testYosemite.jpg')
 imgray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 ret, thresh = cv2.threshold(imgray, 127, 255, 0)
@@ -43,35 +44,3 @@ cv2.destroyAllWindows()
 
 
 
-# cv2.imshow('image', img)
-# k = cv2.waitKey(0)
-
-# set conditions to either escape window with esc (27) key, or save image with 's' key
-# if k == 27:
-#     cv2.destroyAllWindows()
-# elif k == ord('s'):
-#     cv2.imwrite('test_copy.png', img)
-#     cv2.destroyAllWindows()
-
-# To plot the image
-# img = cv2.imread('testYosemite.jpg')
-# plt.imshow(img)
-# plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
-# plt.xticks([]), plt.yticks([])  # to hide tick values on X and Y axis
-# plt.show()
-
-
-
-
-# Laplacian gradient:
-# lap = cv2.Laplacian(img, cv2.CV_64F, ksize=3)
-# lap = np.uint8(np.absolute(lap))
-#
-# titles = ['image', 'Laplacian']
-# images = [img, lap]
-# for i in range(2):
-#     plt.subplot(1, 2, i+1), plt.imshow(images[i], 'gray')
-#     plt.title(titles[i])
-#     plt.xticks([]), plt.yticks([])
-#
-# plt.show()
