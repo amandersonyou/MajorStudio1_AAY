@@ -3,23 +3,24 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-* {background-color: black;}
+body {background-color: black;}
 * {box-sizing: border-box;}
-body {
-    font-family: "Times New Roman", Times, serif;
-    padding:2rem;
-    color: white;
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: "Times New Roman", serif;
+    padding:30px;
     letter-spacing:-0.5pt;
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/family1.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin: auto;
 }
 
 .hero-text {
@@ -28,41 +29,62 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  /*color: white;*/
   font-family: 'Georgia', serif;
-  color: #9a9a00;
-  /*font-size: 60pt;*/
-  /*text-align: center; */
-  /*line-height: 0.4;*/
+  color: white;
 }
 
-/*h1 {*/
-/*  font-family: 'Georgia', serif;*/
-/*  color: #9a9a00;*/
-/*  font-size: 60pt;*/
-/*  text-align: center; */
-/*  line-height: 0.4;*/
-  
-/*}*/
+h2 {
+  color: #9a9a00;
+  font-size: 40pt;
+  text-align: left;
+  font-family: 'Georgia', serif;
+  font-style: underline;
+}
+
+.contour-map {
+  position: relative;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
 h3 {
   color: #9a9a00;
+  font-size: 25pt;
+  text-align: left;
+  font-family: 'Georgia', serif;
+}
+
+h4 {
+    margin-top: 50px;
+    color: gray;
+    text-align: center; 
+    font-size: 25pt;
+    margin-bottom: 100px;
+}
+
+p {
+  color: gray;
   font-size: 20pt;
   text-align: left; 
 }
 
-p {
-    color: white;
-    
-}
 
 .img-comp-container {
   position: relative;
-  height: 500px; /*should be the same height as the images*/
+  height: 700px; /*should be the same height as the images*/
+  margin: auto;
+  width: 75%;
+  /*float: right;*/
+  margin-bottom: 40px;
 }
 
 .img-comp-container_long {
   position: relative;
-  height: 800px; /*should be the same height as the images*/
+  height: 1000px; /*should be the same height as the images*/
+  margin: auto;
+  width: 75%;
+  /*float: right;*/
+  margin-bottom: 40px;
 }
 
 .img-comp-img {
@@ -74,7 +96,7 @@ p {
 
 .img-comp-img img {
   display:block;
-  vertical-align:middle;
+  vertical-align: middle;
   /*Round the corners for a postcard look*/
   border-radius: 75px;
 }
@@ -90,7 +112,36 @@ p {
   opacity: 0.7;
   border-radius: 50%;
 }
+
 </style>
+<body>
+  
+<div class="hero-image">
+  <div class="hero-text">
+    <h1 style="font-size:100px">YOSEMITE</h1>
+  </div>
+</div>
+
+<h4>Yosemite National Park is arguably one of the most beautiful	places on Earth, 
+having attracted visitors to its stunning mountainous landscape for centuries. 
+Many works of art featuring Yosemite exist within The Metropolitan Museum of Art&#39;s vast collection. 
+This visualization explores two angles of two mediums relating to the MET&#39;s Yosemite pieces.</h4>
+
+<div class="contour-map">
+  <h2>Get Your Bearings</h2>
+  <p>Reference this map from the National Park Service in combination with photographs by 
+  Carleton E. Watkins from the MET&#39;s collection. Each of the eight selected photographs 
+  represents a top tourist destination within the park. The images are lined up to coordinate 
+  geographically with the locations along the map. Contour lines have been drawn along the 
+  mountain tops to draw attention to the unique shapes of each natural structure, as well as to 
+  communicate the overall land-to-sky composition within each photograph. The contour lines 
+  connect between each image to lead the eye across all mountain tops.</p>
+    <img src="photos/MountainMap_wphotos.jpg" width="100%" height="100%">
+</div>
+</body>
+
+
+<!--Script for the image comparison elements-->
 <script>
 function initComparisons() {
   var x, i;
@@ -171,64 +222,65 @@ function initComparisons() {
 </script>
 </head>
 <body>
-    
-<div class="hero-image">
-  <div class="hero-text">
-    <h1 style="font-size:50px">YOSEMITE NATIONAL PARK</h1>
-    <img src="photos/family1.jpg" style="width:100%">
-  </div>
-</div>
+<!--HTML for the paintings and photos that will be compared -->
+<h2>Nature in Comparison</h2>
+<p>Click, hold and drag the green circle across each image to reveal either the historic 
+landscape painting from the MET, or a modern day digital photograph of the same location. 
+Use this visual to evaluate how the painter may have seen these landmark locations when 
+creating these works of art. Compare the use of color and light as well as vantage point. </p>
 
-
-<!--<h1>YOSEMITE</h1>-->
-<!--<h1>NATIONAL PARK</h1>-->
-
-<p>Paragraph describing the project and how to use the slider bar </p>
-
-<h3> Yosemite Valley </h3>
+<h3>Merced River</h3>
+<p>Albert Bierstadt<br>Merced River, Yosemite Valley<br>Oil on canvas<br>1866</p>
+<p>Photograph: Akira Murayama</p>
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="photos/YosemiteValleyPhoto.jpg" width="800" height="500">
+    <img src="photos/MercedRiverPhoto.jpg" width="1000" height="700">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="paintings/YosemiteValley_11101.jpg" width="800" height="500">
+    <img src="paintings/MercedRiver_10150.jpg" width="1000" height="700">
   </div>
 </div>
 
 
 <h3> Nevada Falls </h3>
+<p>Albert Bierstadt<br>Nevada Falls, Yosemite<br>Oil on canvas<br>1873</p>
+<p>Photograph: Tommy Lisbin</p>
 
 <div class="img-comp-container_long">
   <div class="img-comp-img">
-    <img src="photos/NevadaFallsPhoto.jpg" width="500" height="800">
+    <img src="photos/NevadaFallsPhoto.jpg" width="700" height="1000">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="paintings/NevadaFalls_10152.jpg" width="500" height="800">
-  </div>
-</div>
-
-
-<h3> Merced River </h3>
-
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img src="photos/MercedRiverPhoto.jpg" width="800" height="500">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img src="paintings/MercedRiver_10150.jpg" width="800" height="500">
+    <img src="paintings/NevadaFalls_10152.jpg" width="700" height="1000">
   </div>
 </div>
 
 
 <h3> Yosemite Falls </h3>
+<p>William Keith<br>Yosemite Falls, from Glacier Point<br>Oil on canvas<br>1879</p>
+<p>Photograph: Juan Arreguin</p>
 
 <div class="img-comp-container_long">
   <div class="img-comp-img">
-    <img src="photos/GlacierYosemitePhoto.jpg" width="500" height="800">
+    <img src="photos/GlacierYosemitePhoto.jpg" width="700" height="1000">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="paintings/GlacierYosemite_11290.jpg" width="500" height="800">
+    <img src="paintings/GlacierYosemite_11290.jpg" width="700" height="1000">
+  </div>
+</div>
+
+
+<h3> Yosemite Valley </h3>
+<p>Thomas Hill<br>View of Yosemite Valley<br>Oil on canvas<br>1885</p>
+<p>Photograph: Pablo Fierro</p>
+
+<div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="photos/YosemiteValleyPhoto.jpg" width="1000" height="700">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="paintings/YosemiteValley_11101.jpg" width="1000" height="700">
   </div>
 </div>
 
@@ -238,9 +290,15 @@ function initComparisons() {
 initComparisons();
 </script>
 
+
 </body>
 </html>
 
 
 <!--// framework utilized from https://www.w3schools.com/howto/howto_js_image_comparison.asp-->
 
+<!--To Do: 
+fix line on 7th mountain on map
+add title to map visual
+add descriptions and wrap each image
+-->
