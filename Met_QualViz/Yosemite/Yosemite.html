@@ -4,14 +4,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 /*CSS styling details for all elements*/
-body {background-color: black;}
+body {
+  background-color:#E3E5E4;
+}
 * {box-sizing: border-box;}
 
 body, html {
     height: 100%;
-    margin: 0;
-    font-family: "Times New Roman", serif;
-    padding:30px;
+    margin: 20px;
+    font-family: "prestige-elite", monospace;
+    /*padding:30px;*/
     letter-spacing:-0.5pt;
 }
 
@@ -35,59 +37,56 @@ body, html {
 }
 
 h2 {
-  color: #9a9a00;
+  color: black;
   font-size: 50pt;
   text-align: left;
-  font-family: 'Georgia', serif;
+  font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B",sans-serif;
   font-style: underline;
-  margin-top: 200px;
+  margin-top: 150px;
   border-bottom-style: solid;
-  border-bottom-color: hotpink;
+  border-bottom-color: darkgreen;
 }
 
 .contour-map {
   position: relative;
-  margin-top: 80px;
   margin-bottom: 100px;
 }
 
 h3 {
-  color: #9a9a00;
-  font-size: 25pt;
+  color: black;
+  font-size: 32pt;
   text-align: left;
-  font-family: 'Georgia', serif;
+  font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B",sans-serif;
 }
 
 h4 {
-    margin-top: 50px;
-    color: gray;
-    text-align: center; 
-    font-size: 25pt;
-    margin-bottom: 100px;
+  color: black;
+  font-size: 15pt;
+  text-align: left; 
+  margin-bottom: 50px;
 }
 
 h5 {
   color: gray;
   font-size: 12pt;
   text-align: left; 
-  font-family: 'Arial';
   margin-bottom: 50px;
 }
 
 p {
-  color: gray;
+  color: black;
   font-size: 20pt;
   text-align: left; 
-  font-family: 'Arial';
   margin-bottom: 50px;
+  width: 50%;
 }
 
 .img-comp-container {
   position: relative;
   height: 700px; /*should be the same height as the images*/
-  margin: auto;
+  /*margin: auto;*/
+  margin:0px;
   width: 75%;
-  /*float: right;*/
   margin-bottom: 40px;
 }
 
@@ -121,34 +120,34 @@ p {
   /*set the appearance of the slider:*/
   width: 40px;
   height: 40px;
-  background-color: #9a9a00;
+  background-color: black;
   opacity: 0.7;
   border-radius: 50%;
 }
 
+ .comparison {
+   display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-column-gap: 0px;
+  margin-top: 100px;
+  }
+
 </style>
 <body>
-  
+
 <div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:100px">YOSEMITE</h1>
   </div>
 </div>
 
-<h4>Yosemite National Park is one of the most beautiful	places on Earth and has 
-attracted visitors to its stunning mountainous landscape for centuries. 
-Many works of art featuring Yosemite exist within The Metropolitan Museum of Art&#39;s vast collection. 
-This visualization explores two angles of two mediums relating to the MET&#39;s Yosemite pieces.</h4>
+<!--<h4>Visualizaing Yosemite photographs & paintings from the MET</h4>-->
 
 <div class="contour-map">
-  <h2>Get Your Bearings</h2>
-  <p>Reference this map from the National Park Service in combination with photographs by 
-  Carleton E. Watkins from the MET&#39;s collection. Each of the eight selected photographs 
-  represents a top tourist destination within the park. The images are aligned to coordinate 
-  geographically with the locations along the map. Contour lines have been added along the 
-  mountain tops to draw attention to the unique shapes of each natural structure, as well as to 
-  communicate the overall land-to-sky composition within each photograph. The contour lines 
-  connect between each image to lead the eye across all mountain tops.</p>
+  <h2>Mountain Top Contours</h2>
+  <p>Eight photographs represent eight landmark sites in Yosemite National Park.
+  Images are aligned with the map from west to east, and contour lines of the 
+  unique mountainous landscape are connected leading the eye across the collection.</p>
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/MountainMap_wphotos.jpg" width="100%" height="100%">
 </div>
 </body>
@@ -237,14 +236,15 @@ function initComparisons() {
 <body>
 <!--HTML for the paintings and photos that will be compared -->
 <h2>Nature in Comparison</h2>
-<p>Click, hold and drag the green circle across each image to reveal either the historic 
-landscape painting from the MET on the left, or a modern day digital photograph of the same location on the right. 
-Use this visual to evaluate how the painter may have seen these landmark locations when 
-creating these works of art. Compare the use of color and light as well as vantage point. </p>
+<p>Observe the Met collection painting on the left, and a modern day digital photo 
+on the right comparing vantage points of each location, color, and light. </p>
 
-<h3>Merced River</h3>
-<p>Albert Bierstadt<br>Merced River, Yosemite Valley<br>Oil on canvas<br>1866</p>
-<h5>Photograph: Akira Murayama</h5>
+<div class="comparison">
+<div class= "caption">
+  <h3>Merced River</h3>
+  <p>Albert Bierstadt<br>Merced River, Yosemite Valley<br>Oil on canvas<br>1866</p>
+  <h5>Photograph: Akira Murayama</h5>
+</div>
 <div class="img-comp-container">
   <div class="img-comp-img">
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/MercedRiverPhoto.jpg" width="1000" height="700">
@@ -253,11 +253,14 @@ creating these works of art. Compare the use of color and light as well as vanta
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/paintings/MercedRiver_10150.jpg" width="1000" height="700">
   </div>
 </div>
+</div>
 
-
+<div class="comparison">
+<div class= "caption">
 <h3> Nevada Falls </h3>
 <p>Albert Bierstadt<br>Nevada Falls, Yosemite<br>Oil on canvas<br>1873</p>
 <h5>Photograph: Tommy Lisbin</h5>
+</div>
 <div class="img-comp-container_long">
   <div class="img-comp-img">
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/NevadaFallsPhoto.jpg" width="700" height="1000">
@@ -266,11 +269,15 @@ creating these works of art. Compare the use of color and light as well as vanta
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/paintings/NevadaFalls_10152.jpg" width="700" height="1000">
   </div>
 </div>
+</div>
 
 
+<div class="comparison">
+<div class= "caption">
 <h3> Yosemite Falls </h3>
 <p>William Keith<br>Yosemite Falls, from Glacier Point<br>Oil on canvas<br>1879</p>
 <h5>Photograph: Juan Arreguin</h5>
+</div>
 <div class="img-comp-container_long">
   <div class="img-comp-img">
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/GlacierYosemitePhoto.jpg" width="650" height="1000">
@@ -279,11 +286,14 @@ creating these works of art. Compare the use of color and light as well as vanta
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/paintings/GlacierYosemite_11290.jpg" width="650" height="1000">
   </div>
 </div>
+</div>
 
-
+<div class="comparison">
+<div class= "caption">
 <h3> Yosemite Valley </h3>
 <p>Thomas Hill<br>View of Yosemite Valley<br>Oil on canvas<br>1885</p>
 <h5>Photograph: Pablo Fierro</h5>
+</div>
 <div class="img-comp-container">
   <div class="img-comp-img">
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/YosemiteValleyPhoto.jpg" width="1000" height="700">
@@ -292,7 +302,7 @@ creating these works of art. Compare the use of color and light as well as vanta
     <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/paintings/YosemiteValley_11101.jpg" width="1000" height="700">
   </div>
 </div>
-
+</div>
 
 
 <script>
@@ -300,7 +310,7 @@ creating these works of art. Compare the use of color and light as well as vanta
 initComparisons();
 </script>
 
-<h5>Made By:<br>Amanda Anderson-You</h5>
+<h5> Made By: Amanda Anderson-You</h5>
 
 </body>
 </html>
