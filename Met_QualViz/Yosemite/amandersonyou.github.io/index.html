@@ -4,16 +4,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 /*CSS styling details for all elements*/
-body {
-  background-color:#E3E5E4;
-}
+body {background-color:#FEFAEE;}
 * {box-sizing: border-box;}
 
 body, html {
     height: 100%;
     margin: 20px;
     font-family: "prestige-elite", monospace;
-    /*padding:30px;*/
     letter-spacing:-0.5pt;
 }
 
@@ -37,19 +34,16 @@ body, html {
 }
 
 h2 {
-  color: black;
+  color: white;
+  background: black;
+  padding: 5px;
+  padding-bottom: 50px;
+  padding-left: 35px;
   font-size: 50pt;
   text-align: left;
   font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B",sans-serif;
-  font-style: underline;
   margin-top: 150px;
-  border-bottom-style: solid;
-  border-bottom-color: darkgreen;
-}
-
-.contour-map {
-  position: relative;
-  margin-bottom: 100px;
+  width: 50%;
 }
 
 h3 {
@@ -81,10 +75,14 @@ p {
   width: 50%;
 }
 
+.contour-map {
+  position: relative;
+  margin-bottom: 100px;
+}
+
 .img-comp-container {
   position: relative;
-  height: 700px; /*should be the same height as the images*/
-  /*margin: auto;*/
+  height: 700px;
   margin:0px;
   width: 75%;
   margin-bottom: 40px;
@@ -92,10 +90,9 @@ p {
 
 .img-comp-container_long {
   position: relative;
-  height: 1000px; /*should be the same height as the images*/
+  height: 1000px; 
   margin: auto;
   width: 75%;
-  /*float: right;*/
   margin-bottom: 40px;
 }
 
@@ -110,7 +107,7 @@ p {
   display:block;
   vertical-align: middle;
   /*Round the corners for a postcard look*/
-  border-radius: 75px;
+  border-radius: 35px;
 }
 
 .img-comp-slider {
@@ -141,14 +138,14 @@ p {
   </div>
 </div>
 
-<!--<h4>Visualizaing Yosemite photographs & paintings from the MET</h4>-->
 
 <div class="contour-map">
   <h2>Mountain Top Contours</h2>
-  <p>Eight photographs represent eight landmark sites in Yosemite National Park.
+  <p>Eight photographs from the Met's collection represent eight landmark sites in Yosemite National Park.
   Images are aligned with the map from west to east, and contour lines of the 
   unique mountainous landscape are connected leading the eye across the collection.</p>
-    <img src="https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_QualViz/Yosemite/photos/MountainMap_wphotos.jpg" width="100%" height="100%">
+    <img src="https://raw.githubusercontent.com/amandersonyou/amandersonyou.github.io/master/photos/MountainMap_2.png" width="100%" height="100%">
+<h5> Map from National Park Service</h5>
 </div>
 </body>
 
@@ -157,19 +154,14 @@ p {
 <script>
 function initComparisons() {
   var x, i;
-  /*find all elements with an "overlay" class:*/
   x = document.getElementsByClassName("img-comp-overlay");
   for (i = 0; i < x.length; i++) {
-    /*once for each "overlay" element:
-    pass the "overlay" element as a parameter when executing the compareImages function:*/
     compareImages(x[i]);
   }
   function compareImages(img) {
     var slider, img, clicked = 0, w, h;
-    /*get the width and height of the img element*/
     w = img.offsetWidth;
     h = img.offsetHeight;
-    /*set the width of the img element to 50%:*/
     img.style.width = (w / 2) + "px";
     /*create slider:*/
     slider = document.createElement("DIV");
@@ -179,47 +171,34 @@ function initComparisons() {
     /*position the slider in the middle:*/
     slider.style.top = (h / 2) - (slider.offsetHeight / 2) + "px";
     slider.style.left = (w / 2) - (slider.offsetWidth / 2) + "px";
-    /*execute a function when the mouse button is pressed:*/
+    /*mouse interaction:*/
     slider.addEventListener("mousedown", slideReady);
-    /*and another function when the mouse button is released:*/
     window.addEventListener("mouseup", slideFinish);
-    /*or touched (for touch screens:*/
     slider.addEventListener("touchstart", slideReady);
-    /*and released (for touch screens:*/
     window.addEventListener("touchstop", slideFinish);
     function slideReady(e) {
-      /*prevent any other actions that may occur when moving over the image:*/
       e.preventDefault();
-      /*the slider is now clicked and ready to move:*/
       clicked = 1;
       /*execute a function when the slider is moved:*/
       window.addEventListener("mousemove", slideMove);
       window.addEventListener("touchmove", slideMove);
     }
     function slideFinish() {
-      /*the slider is no longer clicked:*/
       clicked = 0;
     }
     function slideMove(e) {
       var pos;
-      /*if the slider is no longer clicked, exit this function:*/
       if (clicked == 0) return false;
-      /*get the cursor's x position:*/
-      pos = getCursorPos(e)
-      /*prevent the slider from being positioned outside the image:*/
+      pos = getCursorPos(e);
       if (pos < 0) pos = 0;
       if (pos > w) pos = w;
-      /*execute a function that will resize the overlay image according to the cursor:*/
       slide(pos);
     }
     function getCursorPos(e) {
       var a, x = 0;
       e = e || window.event;
-      /*get the x positions of the image:*/
       a = img.getBoundingClientRect();
-      /*calculate the cursor's x coordinate, relative to the image:*/
       x = e.pageX - a.left;
-      /*consider any page scrolling:*/
       x = x - window.pageXOffset;
       return x;
     }
@@ -234,6 +213,7 @@ function initComparisons() {
 </script>
 </head>
 <body>
+  
 <!--HTML for the paintings and photos that will be compared -->
 <h2>Nature in Comparison</h2>
 <p>Observe the Met collection painting on the left, and a modern day digital photo 
