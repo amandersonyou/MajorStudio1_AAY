@@ -27,12 +27,12 @@ wanting a different aesthetic and simplified output and drew the lines by hand i
 Which you can see in the finished visualization.
 
 Below is a view of the OpenCV code and output:
-![OpenCV Code](photos/OpenCVCodeSample.png)
-![OpenCV Output](photos/OpenCVoutput.png)
+![OpenCV Code](photos/OpenCVCodeSample.png "OpenCV Code")
+![OpenCV Output](photos/OpenCVoutput.png "OpenCV Output")
 
 
 Part 2 of the Yosemite exploration involves the four paintings. I was able to 
-find four modern digital photographs on https://unsplash.com/ that matched as 
+find four modern digital photographs on Unsplash that matched as 
 closely as available the locations and vantage points of the historical paintings. 
 The painting and photo overlap and use a slider tool to expose each as the viewer
 moves the slider back and forth. The intention is to compare multiple visual elements 
