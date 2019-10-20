@@ -27,8 +27,8 @@ wanting a different aesthetic and simplified output and drew the lines by hand i
 Which you can see in the finished visualization.
 
 Below is a view of the OpenCV code and output:
-![OpenCV Code](photos/OpenCVCodeSample.png "OpenCV Code")
-![OpenCV Output](photos/OpenCVoutput.png "OpenCV Output")
+![OpenCV Code](Yosemite/photos/OpenCVCodeSample.png "OpenCV Code")
+![OpenCV Output](Yosemite/photos/OpenCVoutput.png "OpenCV Output")
 
 
 Part 2 of the Yosemite exploration involves the four paintings. I was able to 
