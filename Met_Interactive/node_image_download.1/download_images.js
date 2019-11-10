@@ -4,7 +4,7 @@ let fs = require('fs');
 let request = require('request');
 
 // the folder we will write into
-let folder = "cloudPaintings";
+let folder = "Paintings";
 
 // download the image by url, name the file by filename
 function downloadImage(uri, filename, callback){
@@ -17,7 +17,7 @@ function downloadImage(uri, filename, callback){
 
 // go through the json we created before
 function downloadData() {
-  fs.readFile("skyData.json", "utf8", (err, data) => {
+  fs.readFile("TotalLandscapes.json", "utf8", (err, data) => {
     if (err) console.log(err);
 
     JSON.parse(data).forEach(e => {
