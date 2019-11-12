@@ -15,14 +15,16 @@ function preload() {
 function setup() {
   var canvas = createCanvas(1200, 1000);
   // canvas.parent('visual');
-  displayImages();
+  displayImages(data);
 }
 
+
 // use random to select a random object from the json data, do this 14 times.
-function displayImages() {
+function displayImages(newData) {
   for (let i=0;i<14;i++){
-    randomInt = Math.floor(Math.random()*data.length)
-    loadSliver(i,data[randomInt])
+    var randomInt = Math.floor(Math.random()*newData.length);
+    loadSliver(i,newData[randomInt])
+    newData.splice(randomInt,1)
   }
 }
 
@@ -38,7 +40,9 @@ function loadSliver(index, imageObject){
 }
 
 // To Do:
-// solve horizon height
+// solve horizon height - jumping around as page reloads, can I keep the horizon at a steady level?
+// keep longer slices from being cropped out
 // on button click run displayImages function to refresh slivers
 // determine final size of img width/height after layed out with css - verify parent above
 // finalize total json file
+// solve for duplicates, consider not having same painting side by side
