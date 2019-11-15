@@ -35,7 +35,7 @@ function loadSliver(index, imageObject){
       var x = (index+1)*45
       imgWidth = 50
       imgHeight = imgWidth*10
-      image(sliver, 400+(index+1)*imgWidth, 500-((imageObject.horizon*imgWidth)*10), imgWidth,imgHeight);
+      image(sliver, 100+(index+1)*imgWidth, 400-((imageObject.horizon*imgWidth)*10), imgWidth,imgHeight);
       // image(sliver, (index+1)*imgWidth, 650-((imageObject.horizon*imgWidth)*10),imgWidth,imgHeight);
     });
 }
