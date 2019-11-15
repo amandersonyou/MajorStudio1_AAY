@@ -33,7 +33,7 @@ each side by side and with a height in relation to the assigned horizon value.*/
 function loadSliver(index, imageObject){
       loadImage(imageObject.img_src, sliver => {
       var x = (index+1)*45
-      imgWidth = 50
+      imgWidth = 60
       imgHeight = imgWidth*10
       image(sliver, 100+(index+1)*imgWidth, 400-((imageObject.horizon*imgWidth)*10), imgWidth,imgHeight);
       // image(sliver, (index+1)*imgWidth, 650-((imageObject.horizon*imgWidth)*10),imgWidth,imgHeight);
