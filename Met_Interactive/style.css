@@ -1,0 +1,38 @@
+/*body {background-color:#FEFAEE;}*/
+
+
+body, html {
+  height: 100%;
+  margin: 0px;
+  background-color: black;
+  * {box-sizing: border-box;}
+canvas {vertical-align: bottom;}
+}
+
+.hero-text {
+    /*background-color: black;*/
+  margin-left: 20px;
+  text-align: left;
+  position: relative;
+  font-size: 36pt;
+  font-family: 'Georgia', serif;
+  color: white;
+}
+
+h2 {
+  position: relative;
+  color: white;
+  padding: 5px;
+  padding-bottom: 30px;
+  font-size: 16pt;
+  font-family: "helvetica";
+  text-align: left;
+  margin-top: 20px;
+  width: 40%;
+}
+
+.button {
+  position: relative;
+  /*margin-top: 800px;*/
+  margin-left: 20px;
+}
