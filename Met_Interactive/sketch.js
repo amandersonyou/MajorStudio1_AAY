@@ -11,6 +11,7 @@ function preload() {
 // use 'visual' to link into css file
 function setup() {
   var canvas = createCanvas(windowWidth, windowHeight);
+  // var canvas = createCanvas(11250, 800);
   // canvas.style('display', 'block');
   // canvas.parent('visual');
   background('black');
