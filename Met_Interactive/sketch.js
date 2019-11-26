@@ -24,7 +24,7 @@ var randomImages = [];
 
 // use random to select a random object from the json data, do this 14 times.
 function displayImages(newData) {
-  for (let i=0;i<14;i++){
+  for (let i=0;i<18;i++){
     var randomInt = Math.floor(Math.random()*newData.length);
     loadSliver(i,newData[randomInt])
     newData.splice(randomInt,1)
