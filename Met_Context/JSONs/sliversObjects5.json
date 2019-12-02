@@ -1,0 +1,734 @@
+[
+    {
+        "name": "Mountain Scene",
+        "img_src": "https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_10151_mountainScene.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/10151"
+    },
+    {
+        "name": "View of the Bay and City of New York from Weehawken",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11042_ViewoftheBayandCityofNewYorkfromWeehawken.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11042"
+    },
+    {
+        "name": "View of the Bay and City of New York from Weehawken",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11042_ViewoftheBayandCityofNewYorkfromWeehawken.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11042"
+    },
+    {
+        "name": "View of the Bay and City of New York from Weehawken",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11042_ViewoftheBayandCityofNewYorkfromWeehawken.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11042"
+    },
+    {
+        "name": "View of the Bay and City of New York from Weehawken",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11042_ViewoftheBayandCityofNewYorkfromWeehawken.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11042"
+    },
+    {
+        "name": "View of the Bay and City of New York from Weehawken",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11042_ViewoftheBayandCityofNewYorkfromWeehawken.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11042"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/5_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Approaching Thunder Storm",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11050_approachingThunderStorm.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11050"
+    },
+    {
+        "name": "Autumn Meadows",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11226_AutumnMeadows.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11226"
+    },
+    {
+        "name": "Autumn Meadows",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_11226_AutumnMeadows.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11226"
+    },
+    {
+        "name": "Autumn Meadows",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11226_AutumnMeadows.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11226"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Delaware Water Gap",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11229_delawareWaterGap.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11229"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/5_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Peace and Plenty",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11232_peaceandPlenty.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11232"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Near Squam Lake, New Hampshire",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_11255_NearSquamLakeNewHampshire.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11255"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11311_lakeGeorge.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11311"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "Lake George, A Reminiscence",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_11313_lakeGeorgeaReminiscence.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11313"
+    },
+    {
+        "name": "The Old Pine, Darien, Connecticut",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11318_theOldPineDarienConnecticut.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11318"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/5_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "Old Manor of Criqueboeuf",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_11517_oldManorOfCriqueboeuf.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11517"
+    },
+    {
+        "name": "View on the Seine: Harp of the Winds",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11518_ViewontheSeineHarpoftheWinds.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11518"
+    },
+    {
+        "name": "View on the Seine: Harp of the Winds",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11518_ViewontheSeineHarpoftheWinds.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11518"
+    },
+    {
+        "name": "View on the Seine: Harp of the Winds",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_11518_ViewontheSeineHarpoftheWinds.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11518"
+    },
+    {
+        "name": "View on the Seine: Harp of the Winds",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_11518_ViewontheSeineHarpoftheWinds.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11518"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/5_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "Summer Flowers",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/15_12802_summerFlowers.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/12802"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/10_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/11_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/12_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/13_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "The Village of La Celle-sous-Moret",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/15_436849_theVillageofLaCellesousMoret.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/436849"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/2_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/3_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/4_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/5_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/6_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/7_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/8_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/9_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/14_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/15_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    },
+    {
+        "name": "Landscape with Ducks",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/16_459096_landscapeWithDucks.jpg",
+        "horizon": 0.5,
+        "met_url": "https://www.metmuseum.org/art/collection/search/459096"
+    }
+]

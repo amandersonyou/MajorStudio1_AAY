@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Hudson River Scene",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/0_11310_hudsonRiverScene.jpg",
+        "horizon": 0.1,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11310"
+    },
+    {
+        "name": "Hudson River Scene",
+        "img_src":"https://raw.githubusercontent.com/amandersonyou/MajorStudio1_AAY/master/Met_Interactive/crops800/1_11310_hudsonRiverScene.jpg",
+        "horizon": 0.1,
+        "met_url": "https://www.metmuseum.org/art/collection/search/11310"
+    }
+]
