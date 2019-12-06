@@ -2,7 +2,7 @@
 // let data;
 
 
-// // bring in approx 500 sliver images made from 30 paintings using jimp.js
+// // bring in 441 sliver images made from 30 paintings using jimp.js
 // // each sliver image is saved at 80px wide, 800 px tall
 // function preload() {
 //   data = loadJSON('sliversObjectsEuro.json');
@@ -57,7 +57,7 @@
 let data;
 
 
-// bring in approx 500 sliver images made from 30 paintings using jimp.js
+// bring in 441 sliver images made from 30 paintings using jimp.js
 // each sliver image is saved at 80px wide, 800 px tall
 function preload() {
   data = loadJSON('sliversObjectsAmer.json');
