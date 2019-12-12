@@ -2,10 +2,11 @@
 ## Landscapes at the Met
 September, 2019
 
+
 This visualization examines from a high level the distribution of landscape art 
 at the Metropolitan Museum of Art over time and by department.
 
-![Final_Project1](assets/QuantitativeFinal.pdf "Quantitative Final")
+![Final_Project1](assets/QuantitativeFinal.png "Quantitative Final")
 
 
 For this project, we worked with the Met's API to make a quantitative 
@@ -18,15 +19,15 @@ plotly to create a line graph and a scatter plot of the data. You can explore th
 data by selected or deselecting the various deparments.
 
 
-##Final visualization video: 
+## Final visualization video: 
 [![Quantitative Landscapes](assets/QuantVideo.png)](https://player.vimeo.com/video/366905579 "Quantitative Landscapes Video - Click to Watch!")
 
 
-##Original Sketch:
-![Sketch](assets/MajorStudio_MetSketch1.pdf "Quantitative Sketch")
+## Original Sketch:
+![Sketch](assets/QuantSketch.png "Quantitative Sketch")
 
 
-##Process Documentation:
+## Process Documentation:
 ![Code Process](assets/Process1.png "Quantitative Process")
 ![Code Process](assets/Process2.png "Quantitative Process")
 ![Code Process](assets/Process3.png "Quantitative Process")
