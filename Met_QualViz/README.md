@@ -1,12 +1,7 @@
-Design sketches, description of your process
-Title, 1 sentence description of the project
-Text description
-3 screenshots 1920 x 1080px
-1 video 1920 x 1080px (if it's interactive)
-
 # Met Qualitative Analysis & Process
 ## Yosemite
 October, 2019
+
 
 
 ![Final_Project2](assets/header.png "Qualitative Final")
@@ -19,8 +14,9 @@ of the same iconic sites.
 Visit and interact with the website:
 https://amandersonyou.github.io/MajorStudio1_AAY/Met_QualViz/Yosemite/Yosemite.html
 
-Video of website interaction:
-# CREATE AND ADD THIS
+## Video of website interaction:
+[![Qualitative Project: Yosemite](assets/YosemiteVideo.png)](https://vimeo.com/379152015 "Qualitative Yosemite Video - Click to Watch!")
+
 
 
 For the qualitative portion of the Major Studio Met project, I decided to focus 
@@ -41,21 +37,14 @@ lined up the photographs side by side based on where in the park the landmarks
 exist, from west to east, and also connecting their contour lines to lead the eye 
 across all of the photographs.
 
+
 ![Mountain Contour](assets/mountainContours.png "Mountains")
-
-Originally, I looked at using OpenCV and python to create these contours. I ended up 
-wanting a different aesthetic and simplified output and drew the lines by hand instead 
-Which you can see in the finished visualization.
-
-Below is a view of the OpenCV code and output:
-![OpenCV Code](Yosemite/photos/OpenCVCodeSample.png "OpenCV Code")
-![OpenCV Output](Yosemite/photos/OpenCVoutput.png "OpenCV Output")
 
 
 Part 2 of the Yosemite exploration involves the four paintings. I was able to 
 find four modern digital photographs on Unsplash that matched as 
 closely as available the locations and vantage points of the historical paintings. 
-The painting and photo overlap and use a slider tool to expose each as the viewer
+The painting and photo overlap and use a JavaScript slider tool to expose each as the viewer
 moves the slider back and forth. The intention is to compare multiple visual elements 
 between the two such as perspective, color, light, and even the passage of time.
 
@@ -71,8 +60,8 @@ of each of the images.
 
 
 ## Layout:
-I examined the layout of the desktop site and of a potential mobile application 
-in the visual below:
+I created the layout of the desktop site and of a potential mobile application using
+Figma and Illustrator shown in the visual below:
 ![Wireframe and Design](assets/AllTogether.png "Layout")
 
 Through the Yosemite artworks available at the Met, we can continue to admire and 
