@@ -62,6 +62,7 @@ of each of the images.
 ## Layout:
 I created the layout of the desktop site and of a potential mobile application using
 Figma and Illustrator shown in the visual below:
+
 ![Wireframe and Design](assets/AllTogether.png "Layout")
 
 Through the Yosemite artworks available at the Met, we can continue to admire and 

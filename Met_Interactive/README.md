@@ -1,6 +1,30 @@
-# Met Interactive Project
+Design sketches, description of your process
+Title, 1 sentence description of the project
+Text description
+3 screenshots 1920 x 1080px
+1 video 1920 x 1080px (if it's interactive)
 
-For the third project of Major Studio 1, I am again working with the the landscape 
+
+# Met Interactive Project
+## Landscape Generator
+November 2019
+
+
+![Final_Project3](assets/LandscapeGeneratorFinal.png "Interactive Final")
+
+The Landscape Generator is an interactive website made to encourage the user to 
+engage with landscape paintings from the Metropolitan Museum of Art's collection 
+in a new and unusual way, leading them to discover details about the art they may 
+overlook with a traditional view.
+
+Visit and interact with the website:
+https://amandersonyou.github.io/MajorStudio1_AAY/Met_Interactive/
+
+## Video of website interaction:
+[![Interactive Project: Landscape Generator](assets/InteractiveVideo.png)](https://https://vimeo.com/379168259 "Landscape Generator Video - Click to Watch!")
+
+
+For the third project of Major Studio 1, I again worked with the the landscape 
 data from the Met API. I have evolved an earlier concept from the qualitative project 
 and made a visualization that creates new landscapes out of slices of landscape paintings 
 from the Met's collection. The slices are randomly ordered, and aligned at their horizon 
@@ -11,12 +35,18 @@ viewer to see the landscape paintings in a new way. The slices bring your attent
 small details that get lost in the full artwork, but stand out when juxtaposed next to 
 other related, but different artworks. 
 
+
+## Methodology:
+
 My process begins with determining my dataset. I pulled images from the Met API that 
 had the medium of painting, and the keyword of landscape. Of the hundreds of results, 
 thirty paintings had open access downloadable art. I then adjusted the size of the images 
 to have a consistent height, and used an image manipulation javascript library called 
 jimp.js to create slices of each image at a consistent width. Once sliced, I ended up 
 with approximately 500 individual image files.
+
+Original sketch: 
+![sketch idea](assets/SketchIdea.png "Original Sketch")
 
 jimp.js code example:
 
