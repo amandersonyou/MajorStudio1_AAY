@@ -36,7 +36,7 @@ had the medium of painting, and the keyword of landscape. Of the hundreds of res
 thirty paintings had open access downloadable art. I then adjusted the size of the images 
 to have a consistent height, and used an image manipulation javascript library called 
 jimp.js to create slices of each image at a consistent width. Once sliced, I ended up 
-with approximately 500 individual image files.
+with 441 individual image files.
 
 Original sketch: 
 ![sketch idea](assets/SketchIdea.png "Original Sketch")
@@ -76,6 +76,11 @@ full painting on the Met website, and the painting's name.
         "met_url": "https://www.metmuseum.org/art/collection/search/436849"
     },
 ```
+
+Guide used when assigning horizon levels:
+![Ruler](assets/Ruler.png "Guide Tool")
+
+
 
 I used p5.js to write functions that loop through all of the json objects, selecting 14 
 random slices to assemble into a new landscape. The y position of the slices is influenced 
