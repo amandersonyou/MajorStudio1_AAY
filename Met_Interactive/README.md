@@ -1,10 +1,3 @@
-Design sketches, description of your process
-Title, 1 sentence description of the project
-Text description
-3 screenshots 1920 x 1080px
-1 video 1920 x 1080px (if it's interactive)
-
-
 # Met Interactive Project
 ## Landscape Generator
 November 2019
@@ -21,7 +14,7 @@ Visit and interact with the website:
 https://amandersonyou.github.io/MajorStudio1_AAY/Met_Interactive/
 
 ## Video of website interaction:
-[![Interactive Project: Landscape Generator](assets/InteractiveVideo.png)](https://https://vimeo.com/379168259 "Landscape Generator Video - Click to Watch!")
+[![Interactive Project: Landscape Generator](assets/InteractiveVideo.png)](https://vimeo.com/379168259 "Landscape Generator Video - Click to Watch!")
 
 
 For the third project of Major Studio 1, I again worked with the the landscape 
