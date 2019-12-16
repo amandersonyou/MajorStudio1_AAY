@@ -5,8 +5,8 @@ December 2019
 
 ![Context Final](assets/FullViewFinal.png "Context Final")
 
-This long format poster visualization continues to explore the Met's landscape painting throught the 
-slivers generated in the interactive project by showcasing all available pieces in grouped assortments.
+This long format poster visualization continues to explore the Met's landscape painting through the 
+slivers generated in the Landscape Generator project by showcasing all available pieces in grouped assortments.
 
 
 ## Video of final poster:
