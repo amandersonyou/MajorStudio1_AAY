@@ -1,5 +1,5 @@
 # Met New Contexts Project
-## Landscape Generator
+## Landscape Exploration Poster
 December 2019
 
 
