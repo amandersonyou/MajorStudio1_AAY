@@ -120,21 +120,3 @@ function mouseClicked() {
 
 
 
-
-// function draw() {
-//   for(i=0;i<randomItems.length;i++){
-//       var x = (i+1)*45
-//       imgWidth = 50
-//       imgHeight = imgWidth*10
-//       image(randomImages[i], 100+(i+1)*imgWidth, 400-((randomItems[i].horizon*imgWidth)*10), imgWidth,imgHeight);
-//       urlForLink = randomItems[i].met_url;
-//   }
-// }
-
-
-// function mouseClicked() {
-//   if (mouseX > (100+(i+1)*imgWidth) && mouseX < ((100+(i+1)*imgWidth)+imgWidth) && mouseY > (530+((randomItems[i].horizon*imgWidth)*10) && mouseY < (530+((randomItems[i].horizon*imgWidth)*10)-imgHeight))); {
-//     window.open(urlForLink)
-//   }
-// }
-
