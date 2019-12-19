@@ -4,11 +4,14 @@ November 2019
 
 
 ![Final_Project3](assets/LandscapeGeneratorFinal.png "Interactive Final")
+![Context Final](assets/FullViewFinal.png "Context Final")
 
 The Landscape Generator is an interactive website made to encourage the user to 
 engage with landscape paintings from the Metropolitan Museum of Art's collection 
 in a new and unusual way, leading them to discover details about the art they may 
-overlook with a traditional view.
+overlook with a traditional view. As an evolution to the Landscape Generator, a 
+large format poster visualization continues to explore the collection of generated 
+slivers by showcasing all available pieces in various grouped assortments.
 
 Visit and interact with the website:
 https://amandersonyou.github.io/MajorStudio1_AAY/Met_Interactive/
@@ -17,11 +20,10 @@ https://amandersonyou.github.io/MajorStudio1_AAY/Met_Interactive/
 [![Interactive Project: Landscape Generator](assets/InteractiveVideo.png)](https://vimeo.com/379168259 "Landscape Generator Video - Click to Watch!")
 
 
-For the third project of Major Studio 1, I again worked with the the landscape 
-data from the Met API. I have evolved an earlier concept from the qualitative project 
-and made a visualization that creates new landscapes out of slices of landscape paintings 
-from the Met's collection. The slices are randomly ordered, and aligned at their horizon 
-lines for a unique, collaged curation.
+For the third project of Major Studio 1, I made a visualization that creates 
+new landscapes out of slices of landscape paintings from the Met's collection. 
+The slices are randomly ordered, and aligned at their horizon lines for a unique, 
+collaged curation.
 
 The goal of this visualization is to allow for artistic exploration and to encourage the 
 viewer to see the landscape paintings in a new way. The slices bring your attention to 
@@ -96,9 +98,6 @@ website for that particular painting to see the full view and how the slice fits
 
 
 ### New Contexts:
-
-![Context Final](assets/FullViewFinal.png "Context Final")
-
 
 To take this project further and continue to use the data structured for the Landscape Generator, 
 I decided to create a large scale poster exploring the landscape slivers.
