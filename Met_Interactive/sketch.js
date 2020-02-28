@@ -1,4 +1,5 @@
 // MS1 Project 3: Interactive w/ Met Dataset
+// Amanda Anderson-You
 let data;
 
 
@@ -10,11 +11,10 @@ function preload() {
 
 // use 'visual' to link into css file
 function setup() {
+  // var canvas = createCanvas(23000, 900);
+    // var canvas = createCanvas(1500, 900);
   var canvas = createCanvas(windowWidth, windowHeight);
-  // var canvas = createCanvas(11250, 800);
-  // canvas.style('display', 'block');
-  // canvas.parent('visual');
-  background('black');
+  background(0);
   displayImages(data);
 }
 
@@ -22,7 +22,8 @@ var randomItems = [];
 var randomImages = [];
 
 
-// use random to select a random object from the json data, do this 14 times.
+
+// use random to select a random object from the json data, do this 30 times.
 function displayImages(newData) {
   for (let i=0;i<30;i++){
     var randomInt = Math.floor(Math.random()*newData.length);
@@ -30,6 +31,7 @@ function displayImages(newData) {
     newData.splice(randomInt,1)
   }
 }
+
 
 /* use p5 loadImage function to load the img_src from the json file and place 
 each side by side and with a height in relation to the assigned horizon value.*/
