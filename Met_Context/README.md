@@ -37,4 +37,8 @@ For this poster, I utilized the painting slivers I created in the previous Lands
 I then altered my P5.js code to output the various landscape images outlined above. I structured the poster 
 in Adobe Illustrator and printed it on a large format plotter printer. 
 
-![Classroom Presentation](assets/Classroom.jpg "Classroom Final")
+
+
+In February 2020, the poster was featured at [Data Through Design](https://2020.datathroughdesign.com/), a gallery celebrating NYC Open Data.
+![Exhibit](assets/exhibit1.png "DXD Poster")
+![Exhibit](assets/exhibit2.png "DXD Poster")
