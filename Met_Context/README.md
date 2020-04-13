@@ -40,5 +40,5 @@ in Adobe Illustrator and printed it on a large format plotter printer.
 
 
 In February 2020, the poster was featured at [Data Through Design](https://2020.datathroughdesign.com/), a gallery celebrating NYC Open Data.
-![Exhibit](assets/exhibit1.png "DXD Poster")
-![Exhibit](assets/exhibit2.png "DXD Poster")
+![Exhibit](assets/exhibit1.jpeg "DXD Poster")
+![Exhibit](assets/exhibit2.jpeg "DXD Poster")
